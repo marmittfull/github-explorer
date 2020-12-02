@@ -1,9 +1,9 @@
-## #GoStack
+# GoStack
 <br>
-## Github Explorer
+# Github Explorer
 <hr>
 This project aims to build an application which allows the user searching for any repository on Github
-## Tools
+# Tools
 <hr>
 <ul>
 <li>ReactJS</li
