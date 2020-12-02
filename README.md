@@ -1,5 +1,5 @@
 # GoStack
-<br>
+<br/>
 # Github Explorer
 <hr>
 This project aims to build an application which allows the user searching for any repository on Github
