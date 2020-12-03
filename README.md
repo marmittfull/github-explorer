@@ -1,23 +1,39 @@
-## Github Explorer
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-This project aims to build an application which allows the user searching for any repository on Github
+I've developed this project during the GoStack Bootcamp, learning a lot of good concepts about ReactJS & Typescript
 
-## Tools
+The project aims to build an application which allows the user searching for any repository on Github.
 
-- ReactJS
-- Typescript
-- Github API
+### Built With
 
-## Installation
+* [ReactJS](https://reactjs.org/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Github API](https://developer.github.com/v3/)
 
-Use the package manager yarn to install Github Explorer.
 
-First of all, install all packages using
-```
-yarn install
-```
+<!-- GETTING STARTED -->
+## Getting Started
 
-Secondly run the project with the following code
-```
-yarn start
-```
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* yarn
+  https://yarnpkg.com/lang/en/docs/install/
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/marmittfull/github-explorer.git
+   ```
+2. Install yarn packages
+   ```sh
+   yarn install
+   ```
+3. Run the following code on the project root directory
+   ```sh
+   yarn start
+   ```
