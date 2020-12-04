@@ -10,6 +10,7 @@ The project aims to build an application which allows the user searching for any
 * [ReactJS](https://reactjs.org/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Github API](https://developer.github.com/v3/)
+* [Styled-components](https://styled-components.com/)
 
 
 <!-- GETTING STARTED -->
